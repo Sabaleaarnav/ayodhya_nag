@@ -6,8 +6,8 @@ import Sidebar from './Sidebar';
 
 const statusColor = {
   AVAILABLE: 'green',
-  SOLD: 'red',
-  BLOCK: 'orange'
+  SOLD: 'blue',
+  BLOCK: 'yellow'
 };
 
 // Placeholder coordinates for demonstration:
