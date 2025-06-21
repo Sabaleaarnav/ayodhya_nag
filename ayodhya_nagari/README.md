@@ -1,1 +1,0 @@
-# ayodhya_nagari
